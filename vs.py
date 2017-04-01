@@ -1,4 +1,5 @@
 # echo '3ra,1wa,2rb,2ra,3wa,2wa,1rb' | python3 ~/Desktop/vs.py
+# Todo: the "set" should be a bag
 from itertools import permutations
 import fileinput, re
 
